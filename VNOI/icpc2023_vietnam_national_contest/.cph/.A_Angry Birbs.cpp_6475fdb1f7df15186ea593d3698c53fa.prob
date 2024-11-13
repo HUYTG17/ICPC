@@ -1,0 +1,1 @@
+{"name":"Local: A_Angry Birbs","url":"h:\\OLP\\VNOI\\icpc2023_vietnam_national_contest\\A_Angry Birbs.cpp","tests":[{"id":1729937105521,"input":"2\n1 2 3\n-3 -2 -1\n","output":"CURVE UP\nCURVE DOWN\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"h:\\OLP\\VNOI\\icpc2023_vietnam_national_contest\\A_Angry Birbs.cpp","group":"local","local":true}
